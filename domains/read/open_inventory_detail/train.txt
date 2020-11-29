@@ -1,0 +1,10 @@
+Open inventory
+Find inventory for {item|field} {01010|number}
+Find inventory
+Show inventory for {item|field} {03011|number}
+Read inventory for {item|field} {01010|number}
+Find inventory for {01010|number}
+Inventory for {02011|number}
+Show me inventory
+Show me inventory for item {01010|number}
+Display inventory for item {03110|number}

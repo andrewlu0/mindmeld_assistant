@@ -1,0 +1,5 @@
+Create a new action request for {customer|field} {10C1003|customer_id}.
+Create action request
+Make a new action request
+New action request
+Create an action request for {10C1004|customer_id}.

@@ -1,0 +1,9 @@
+Edit inventory
+Edit inventory for {item|field} {01010|number}
+Update inventory
+Change inventory for {item|field} {03011|number}
+Update inventory for {item|field} {01010|number}
+Change inventory for {01010|number}
+Alter inventory
+Alter the inventory for item {01010|number}
+Make changes to inventory for item {03110|number}

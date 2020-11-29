@@ -1,0 +1,12 @@
+Create a new sales order for {customer|field} {12C1000|customer_id}.
+Create a new sales order
+New sales order
+Make a new sales order
+Create a sales order {sold to|field} {31C1003|customer_id}
+Create a sales order {billed to|field} {20C1002|customer_id}
+Make a sales order {billed to| field} {12C3873|customer_id}
+Create a sales order to {ship to|field} {12C1002A|customer_id}
+Create a sales order for {shipping to|field} {12C1002A|customer_id}
+Create a sales order for {10C1004|customer_id}.
+Create a sales order {sold to|field} {19C1191|customer_id} and {billed to|field} {19C0000|customer_id}
+Make a new sales order for {customer|field} {29C1111|customer_id} and {shipped to|field} {20C1111|customer_id}

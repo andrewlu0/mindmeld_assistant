@@ -1,0 +1,6 @@
+Delete sales order
+Get rid of sales order {SO192837|sale_order_id}
+Remove sale order
+Delete sales orders {sold to|field} {10C1002|customer_id}
+Delete sales orders {billed to|field} customer {17C2828|customer_id}
+Remove sales order {SO192283|sale_order_id}

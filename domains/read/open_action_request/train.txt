@@ -1,0 +1,9 @@
+Open action request
+Read action request
+Find action request
+Display action requests
+Show me action request {AR175638|action_request_id}
+Find action request {AR175228|action_request_id}
+Show me action requests for {customer|field} {10C1900|customer_id}
+Show action requests for {customer|field} {10C1900|customer_id}
+Display action requests for {customer|field} {10C1900|customer_id}

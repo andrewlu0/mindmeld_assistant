@@ -1,0 +1,6 @@
+Change {ship-to|field} to {10C1001A|customer_id} on sales order {SO051904|sale_order_id}
+Edit sales order {SO928372|sale_order_id}
+Update sales order {SO827192|sale_order_id}
+Change sales order {SO918271|sale_order_id}
+Update the {customer|field} on sales order {SO102345|sale_order_id} to {19C3772|customer_id}
+Change a sales order

@@ -1,0 +1,5 @@
+Delete action request
+Get rid of action request {AR192732|action_request_id}
+Remove action requests for {customer|field} {19C3737|customer_id}
+Delete action request {AR200122|action_request_id}
+Throw away action requests for {customer|field} {12C1002|customer_id}

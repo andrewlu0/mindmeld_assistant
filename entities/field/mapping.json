@@ -1,0 +1,24 @@
+{
+    "entities" :[
+        {
+            "id": "1",
+            "cname": "sold-to",
+            "whitelist": ["customer", "sell to", "sold to"]
+        },
+        {
+            "id": "2",
+            "cname": "bill-to",
+            "whitelist": ["billed to", "bill to"]
+        },
+        {
+            "id": "3",
+            "cname": "ship-to",
+            "whitelist": ["shipped to", "ship to", "shipping to"]
+        },
+        {
+            "id":"4",
+            "cname": "item",
+            "whitelist": ["object"]
+        }
+    ]
+}

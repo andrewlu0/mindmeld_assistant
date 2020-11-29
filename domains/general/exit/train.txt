@@ -1,0 +1,7 @@
+bye
+Good bye!
+See you later.
+quit
+sayonara
+Later.
+Bye bye.

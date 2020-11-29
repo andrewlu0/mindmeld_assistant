@@ -1,0 +1,8 @@
+Open sales order {SO192837|sale_order_id}
+Open sale order
+Sales orders
+Show me sales orders
+Read sales orders
+Show me sales order {shipped to|field} {12C1919|customer_id}
+Show sales order {SO122237|sale_order_id}
+Display sales order {SO195557|sale_order_id}
