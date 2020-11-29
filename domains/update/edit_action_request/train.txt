@@ -1,4 +1,10 @@
 Edit action request
 Change action request {AR182736|action_request_id}
 Update action request {AR192732|action_request_id}
-Change the {customer|field} to {23C1928|customer_id} on action request {AR123123|action_request_id}
+Change the {contact name|field} to {23C1928|customer_id} on action request {AR123123|action_request_id}
+Change the {contact type|field} to {crm account|contact_type} on action request {AR000004|action_request_id}
+Change the {contact type|field} to {engineer|contact_type} on action request {AR000004|action_request_id}
+Update the {contact type|field} to {supplier|contact_type} on action request {AR220004|action_request_id}
+For action request {AR223304|action_request_id}, change {contact-type|field} to {salesperson|contact_type}
+Change {customer|field} to {19C2222|customer_id} on action request {AR000004|action_request_id}
+

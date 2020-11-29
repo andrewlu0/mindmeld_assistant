@@ -6,3 +6,4 @@ Read sales orders
 Show me sales order {shipped to|field} {12C1919|customer_id}
 Show sales order {SO122237|sale_order_id}
 Display sales order {SO195557|sale_order_id}
+Open sales orders {billed to|field} {12C1002|customer_id} and {shipped to|field} {12C1002A|customer_id}

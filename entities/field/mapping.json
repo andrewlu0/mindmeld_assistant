@@ -3,7 +3,7 @@
         {
             "id": "1",
             "cname": "sold-to",
-            "whitelist": ["customer", "sell to", "sold to"]
+            "whitelist": ["customer", "customers", "sell to", "sold to"]
         },
         {
             "id": "2",
@@ -16,7 +16,17 @@
             "whitelist": ["shipped to", "ship to", "shipping to"]
         },
         {
-            "id":"4",
+            "id": "4",
+            "cname": "contact_name",
+            "whitelist": ["contact name", "contact", "contacts name", "contact-name"]
+        },
+        {
+            "id": "4",
+            "cname": "contact_type",
+            "whitelist": ["type of contact", "type contact", "contacts type", "type", "contact type", "contact-type"]
+        },
+        {
+            "id":"4221212",
             "cname": "item",
             "whitelist": ["object"]
         }

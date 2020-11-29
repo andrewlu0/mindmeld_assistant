@@ -1,5 +1,10 @@
-Create a new action request for {customer|field} {10C1003|customer_id}.
+Create a new action request for {customer|contact_type} {10C1003|customer_id}.
 Create action request
 Make a new action request
 New action request
 Create an action request for {10C1004|customer_id}.
+Start a new action request for {crm account|contact_type} {12C1223|customer_id}.
+Create an action request for {salesperson|contact_type} {12C1000|customer_id}.
+For {engineer|contact_type} {12C1111|customer_id}, create a new action request.
+Make a new action request for {supplier|contact_type} {11C1111|customer_id}.
+New action request for {employee|contact_type} {99C9999|customer_id}.

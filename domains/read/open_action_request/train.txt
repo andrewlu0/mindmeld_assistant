@@ -3,7 +3,14 @@ Read action request
 Find action request
 Display action requests
 Show me action request {AR175638|action_request_id}
+Open action request with id {AR175638|action_request_id}
 Find action request {AR175228|action_request_id}
-Show me action requests for {customer|field} {10C1900|customer_id}
-Show action requests for {customer|field} {10C1900|customer_id}
-Display action requests for {customer|field} {10C1900|customer_id}
+Read action request id {AR000004|action_request_id}
+Show me action requests for {customer|contact_type} {10C1900|customer_id}
+Show action requests for {customer|contact_type} {10C1900|customer_id}
+Display action requests for {customer|contact_type} {10C1900|customer_id}
+Open action requests for {customers|contact_type}
+Open action requests with {contact type|contact_type} {engineer|contact_type}
+Find action requests for {crm accounts|contact_type}
+Open action requests for {customers|contact_type} and {engineers|contact_type}
+Show action requests for {salespersons|contact_type}

@@ -1,0 +1,45 @@
+{
+    "entities" :[
+        {
+            "id": "1",
+            "cname": "crm_acct",
+            "whitelist": ["CRM Account", "crm account" , "crm-account" , 
+                "Crm account", "crm", "CRM", "crm accounts"]
+        },
+        {
+            "id": "2",
+            "cname": "customer",
+            "whitelist": ["customers", "customer"]
+        },
+        {
+            "id": "3",
+            "cname": "employee",
+            "whitelist": ["employ"]
+        },
+        {
+            "id": "4",
+            "cname": "end_user",
+            "whitelist": ["end user", "end-user", "user at end"]
+        },
+        {
+            "id": "5",
+            "cname": "engineer",
+            "whitelist": ["engineering", "engineers"]
+        },
+        {
+            "id": "6",
+            "cname": "other",
+            "whitelist": []
+        },
+        {
+            "id": "6",
+            "cname": "salespsn",
+            "whitelist": ["salespersons", "sales person", "salesperson", "salespeople","sale person"]
+        },
+        {
+            "id": "7",
+            "cname": "supplier",
+            "whitelist": ["supply person"]
+        }
+    ]
+}
